@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm Will (I think)
-
+No.1 Scripter at AA Corp and Ben's LTD 
+Devloper for Primovia and District
+Follow my instagram (I guess)
 <!--
 **glimmercharger/glimmercharger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
