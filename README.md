@@ -4,7 +4,7 @@ I'm Will (I think)
 
 No.1 Scripter at AA Corp and Ben's LTD 
 
-Devloper for Primovia and District
+developer for Primovia and District
 
 Follow my instagram (I guess)
 <!--
