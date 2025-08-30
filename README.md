@@ -4,9 +4,20 @@ I'm Will (I think)
 
 No.1 Scripter at AA Corp and Ben's LTD 
 
-developer for Primovia and District
+Developer for Primovia and District
 
 Follow my instagram (I guess)
+
+# What i'm Developing Now
+
+Primovia And District Roblox Game as Head Scripter
+
+Working At Ben's LTD on the Dev team
+
+E School in Roblox as The CEO and Head Teacher
+
+
+
 <!--
 **glimmercharger/glimmercharger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
