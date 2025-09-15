@@ -12,6 +12,9 @@ Developer for Primovia and District
 
 Follow my instagram (I guess)
 
+## Fun Fact
+I spent 5 hours on a python project... then scrapped it becuase it didn't work... I couldnt be bothered 😂
+
 ## What i'm Developing Now 💻
 
 Primovia And District Roblox Game as Head Scripter
@@ -27,10 +30,6 @@ E School in Roblox as The CEO and Head Teacher
 [Ben's LTD Discord](
 
 [AA Corporation Discord](
-
-## Fun Fact
-I spent 5 hours on a python project... then scrapped it becuase it didn't work... I couldnt be bothered 😂
-
 <!--
 **glimmercharger/glimmercharger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
