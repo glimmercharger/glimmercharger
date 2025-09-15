@@ -21,6 +21,8 @@ Primovia And District Roblox Game as Head Scripter
 
 Working At Ben's LTD on the Dev team
 
+[Coding languges I have been working on:](https://github-readme-stats.hackclub.dev/api/wakatime?username=18256&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 ## I'm Currently Collaborating With 👪
 
 [The Oakwood Secondary School Discord Server](https://discord.gg/VZCc92xb4k)
