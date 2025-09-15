@@ -2,6 +2,10 @@
 
 I'm Will (I think)
 
+High School Student in UK
+
+Member of [Hack Club](https://hackclub.com/)
+
 No.1 Scripter at AA Corp and Ben's LTD 
 
 Developer for Primovia and District
@@ -16,15 +20,16 @@ Working At Ben's LTD on the Dev team
 
 E School in Roblox as The CEO and Head Teacher
 
-## I'm Currently Collaborating With
+## I'm Currently Collaborating With 👪
 
-The Oakwood Secondary School Discord Server
+[The Oakwood Secondary School Discord Server](
 
-Ben's LTD Discord
+[Ben's LTD Discord](
 
-AA Corporation Discord
+[AA Corporation Discord](
 
-E School Discord
+## Fun Fact
+I spent 5 hours on a python project... then scrapped it becuase it didn't work... I couldnt be bothered 😂
 
 <!--
 **glimmercharger/glimmercharger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
