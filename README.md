@@ -16,7 +16,15 @@ Working At Ben's LTD on the Dev team
 
 E School in Roblox as The CEO and Head Teacher
 
+## I'm Currently Collaborating With
 
+The Oakwood Secondary School Discord Server
+
+Ben's LTD Discord
+
+AA Corporation Discord
+
+E School Discord
 
 <!--
 **glimmercharger/glimmercharger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
