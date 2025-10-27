@@ -21,7 +21,7 @@ Primovia And District Roblox Game as Head Scripter
 
 Working At Ben's LTD on the Dev team
 
-Oakwood Secondary School (OSS) on the Site Dev Team
+Rosewood Secondary School (RSS) on the Site Dev Team
 
 Coding languges I have been working on:
 
