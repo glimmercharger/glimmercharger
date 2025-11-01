@@ -10,8 +10,6 @@ No.1 Scripter at AA Corp and Ben's LTD
 
 Developer for Primovia and District
 
-Follow my instagram (I guess)
-
 ## Fun Fact 📚
 I spent 5 hours on a python project... then scrapped it becuase it didn't work... I couldnt be bothered to fix it 😂
 
