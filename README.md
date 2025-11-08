@@ -6,10 +6,6 @@ High School Student in UK
 
 Member of [Hack Club](https://hackclub.com/)
 
-No.1 Scripter at AA Corp and Ben's LTD 
-
-Developer for Primovia and District
-
 ## Fun Fact 📚
 I spent 5 hours on a python project... then scrapped it becuase it didn't work... I couldnt be bothered to fix it 😂
 
