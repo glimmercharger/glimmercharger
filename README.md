@@ -27,7 +27,7 @@ Coding languges I have been working on:
 
 ## I'm Currently Collaborating With 👪
 
-[The Oakwood Secondary School Discord Server](https://discord.gg/VZCc92xb4k)
+[The Rosewood Secondary School Discord Server](https://discord.gg/VZCc92xb4k)
 
 [Ben's LTD Discord](https://discord.gg/vAK37GvyXm)
 
