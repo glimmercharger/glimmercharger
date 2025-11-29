@@ -9,7 +9,7 @@ Member of [Hack Club](https://hackclub.com/)
 Co-leader of a [Hack Club](https://hackclub.com)
 
 ## Fun Fact 📚
-I spent 5 hours on a python project... then scrapped it becuase it didn't work... I couldnt be bothered to fix it 😂
+I exist (groundbreaking I know)
 
 ## What i'm Developing Now 💻
 
