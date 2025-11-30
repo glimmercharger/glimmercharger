@@ -6,7 +6,7 @@ High School Student in UK
 
 Member of [Hack Club](https://hackclub.com/)
 
-Co-leader of a [Hack Club](https://hackclub.com)
+Co-leader of a [Hack Club](https://hackclub.com/clubs/)
 
 ## Fun Fact 📚
 I exist (groundbreaking I know)
