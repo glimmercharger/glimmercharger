@@ -29,6 +29,9 @@ Coding languges I have been working on:
 
 [Ben's LTD Discord](https://discord.gg/vAK37GvyXm)
 
+## GitHub Stats! 
+################### (ts is proberly broken i did this at like 11:34 AM
+
 <!--
 **glimmercharger/glimmercharger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
