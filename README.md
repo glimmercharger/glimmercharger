@@ -31,6 +31,7 @@ Coding languges I have been working on:
 
 ## GitHub Stats! 
 ###### (ts is proberly broken i did this at like 11:34 AM
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glimmercharger)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **glimmercharger/glimmercharger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
