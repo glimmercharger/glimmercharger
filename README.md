@@ -15,9 +15,7 @@ I exist (groundbreaking I know)
 
 Primovia And District Roblox Game as Head Scripter
 
-Working At Ben's LTD on the Dev team
-
-Rosewood Secondary School (RSS) on the Site Dev Team
+Other stuff (mostly python stuff tbh)
 
 Coding languges I have been working on:
 
@@ -26,12 +24,6 @@ Coding languges I have been working on:
 ## GitHub Stats! ✨
 ###### (ts is proberly broken i did this at like 11:34 AM
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glimmercharger&show_icons=true&theme=transparent)
-
-## I'm Currently Collaborating With 👪
-
-[The Rosewood Secondary School Discord Server](https://discord.gg/VZCc92xb4k)
-
-[Ben's LTD Discord](https://discord.gg/vAK37GvyXm)
 <!--
 **glimmercharger/glimmercharger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
