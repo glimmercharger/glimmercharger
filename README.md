@@ -23,7 +23,7 @@ Coding languges I have been working on:
 
 ## GitHub Stats! ✨
 ###### (ts is proberly broken i did this at like 11:34 AM
-![](https://github-readme-stats.vercel.app/api?username=glimmercharger&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glimmercharger&show_icons=true&theme=transparent)
 <!--
 **glimmercharger/glimmercharger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
