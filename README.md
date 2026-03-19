@@ -2,11 +2,11 @@
 
 I'm Will! I'm a High School Student in UK.
 
-I assume I'm alive...
-
 Member of [Hack Club](https://hackclub.com/)
 
 Co-leader of a [Hack Club](https://hackclub.com/clubs/)
+
+###### I assume I'm alive...
 
 ## Fun Fact 📚
 I exist (groundbreaking I know)
