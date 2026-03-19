@@ -13,9 +13,9 @@ I exist (groundbreaking I know)
 
 ## What i'm Developing Now 💻
 
-Primovia And District Roblox Game as Head Scripter
+idk atp
 
-Other stuff (mostly python stuff tbh)
+Other stuff (mostly html or python stuff tbh)
 
 Coding languges I have been working on:
 
