@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Will (I think)
+I'm Will! I'm a High School Student in UK.
 
-High School Student in UK
+I assume I'm alive...
 
 Member of [Hack Club](https://hackclub.com/)
 
