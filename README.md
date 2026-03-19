@@ -9,7 +9,7 @@ Co-leader of a [Hack Club](https://hackclub.com/clubs/)
 ###### I assume I'm alive...
 
 ## Fun Fact 📚
-I exist (groundbreaking I know)
+My favourite TV show is probably [Heartstopper on Netflix](https://www.netflix.com/gb/title/81059939)
 
 ## What i'm Developing Now 💻
 
