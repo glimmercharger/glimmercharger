@@ -2,9 +2,7 @@
 
 I'm Will! I'm a High School Student in UK.
 
-Member of [Hack Club](https://hackclub.com/)
-
-Co-leader of a [Hack Club](https://hackclub.com/clubs/)
+I work at [Hack Club](https://hackclub.com/)
 
 ###### I assume I'm alive...
 
